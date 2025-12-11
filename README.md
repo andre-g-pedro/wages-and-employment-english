@@ -1,13 +1,13 @@
 # 📊 Wages & Employment – Excel Dashboard
 
-Welcome to this **Business Intelligence in Excel** project 🚀  
-This **Industry Wage Dashboard** was developed entirely in **Microsoft Excel**, using **charts**, **functions**, **maps**, and **data visualization techniques** (including strategic color use for improved readability) to answer the question:
+Welcome to this **Business Intelligence** Excel project 🚀  
+This **Industry Wage Dashboard** was built entirely in **Microsoft Excel**, using **charts**, **functions**, **maps**, and **data visualization techniques** (including strategic color usage for readability) to answer the question:
 
 **“How do wages and employment levels vary across different industries?”**
 
-The goal is to demonstrate how raw data can be transformed into **clear, visual, and actionable insights** about wages across different economic sectors.
+The goal is to show how raw data can be transformed into **clear, visual, and actionable insights** about wages across economic sectors.
 
-> ⚠️ Important Note: The data presented is for **portfolio** purposes and to demonstrate technical skills.
+> ⚠️ Important Note: The data presented is for **portfolio** and technical demonstration purposes only.
 
 ---
 
@@ -15,9 +15,9 @@ The goal is to demonstrate how raw data can be transformed into **clear, visual,
 
 ✔️ **Interactive Dashboard**  
 ✔️ **Modern Visual Design** with aligned charts and strategic colors  
-✔️ **Clear Comparisons** between employment sectors  
-✔️ **Multiple Metrics**: wages, employment, average salaries  
-✔️ **Advanced Excel Techniques**  
+✔️ **Clear Comparisons** across employment sectors  
+✔️ **Multiple Metrics**: wages, employment, wage averages  
+✔️ **Advanced Excel**  
 ✔️ **Data Storytelling** applied to wages and employment  
 
 ---
@@ -28,24 +28,24 @@ The goal is to demonstrate how raw data can be transformed into **clear, visual,
 
 ---
 
-## 📌 Features in Detail
+## 📌 Detailed Features
 
-🔹 **💵 Average Annual Wage** – chart displaying the average annual wage by industry  
+🔹 **💵 Average Annual Wage** – chart showing the average annual wage by industry  
 🔹 **👥 Share of Total Employees** – pie chart showing the percentage of workers in each sector  
-🔹 **📈 Wage & Employment Trends** – line chart showing annual trends in average wages and employment  
+🔹 **📈 Wage & Employment Trends** – line chart with annual trends for wage averages and number of employees  
 🔹 **🗺️ Industry Map View** – map illustrating **average wages** or **employees per 1,000** by region/state  
-🔹 **🔎 Dynamic Slicers** – filter industries, wages, and employees  
-🔹 **📊 Inter-Industry Comparison** – quick analysis of sectors with the highest and lowest wages  
+🔹 **🔎 Dynamic Segmentation** – industries, wages, and employment filters  
+🔹 **📊 Industry Comparison** – quick comparison between the highest and lowest paying sectors  
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Purpose
 
   **Showcase Technical Skills** 🛠️  
    - Building advanced dashboards in Excel  
-   - Enabling intuitive interpretation and visual navigation  
+   - Improving interpretation and visual navigation  
    - Creating impactful visualizations  
-   - Modeling and organizing data by industry and year  
+   - Structuring and modeling industry- and year-based data  
 
   **Explore Wage & Employment Dynamics** 💼  
    - Compare employment sectors  
@@ -54,12 +54,12 @@ The goal is to demonstrate how raw data can be transformed into **clear, visual,
 
 ---
 
-## 📈 Impact & Learnings
+## 📈 Impact & Learning
 
-This project helped improve:
+This project helped enhance:  
 
-- 💡 Design of dashboards focused on economic analysis  
-- 💡 Advanced practice with charts and slicers  
+- 💡 Dashboard design focused on economic analysis  
+- 💡 Advanced work with charts and slicers  
 - 💡 Visual interpretation of wage and employment trends  
 - 💡 Organization of multivariate data for portfolio use  
 
@@ -70,4 +70,4 @@ This project helped improve:
 Suggestions for improvements, new charts, or ideas are always welcome!  
 Feel free to open an **issue** or submit a **pull request** 🚀  
 
-If you enjoy the project, a ⭐ on the repository is always greatly appreciated! ✨
+If you enjoyed the project, a ⭐ on the repository is always greatly appreciated! ✨
