@@ -66,9 +66,19 @@ This project helped enhance:
 
 ---
 
+## 📩 Contact & Project Access
+
+
+If you are an **employer**, **recruiter**, or simply interested in **viewing the full Excel version of this project**, feel free to reach out.  
+You may send me a direct message or contact me via **LinkedIn** — I’ll be happy to share the file and walk you through the technical and design decisions behind the dashboard.
+
+---
+
 ## 🤝 Contributions
 
 Suggestions for improvements, new charts, or ideas are always welcome!  
 Feel free to open an **issue** or submit a **pull request** 🚀  
 
 If you enjoyed the project, a ⭐ on the repository is always greatly appreciated! ✨
+
+
