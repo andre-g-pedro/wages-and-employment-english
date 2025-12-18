@@ -22,14 +22,11 @@ The goal is to show how raw data can be transformed into **clear, visual, and ac
 
 ---
 
-## 🖼️ Dashboard GIF Demo
-
-[![Demonstração](<img width="1332" height="705" alt="image" src="https://github.com/user-attachments/assets/054104d9-90fb-40b0-aa3f-c3d785a875b6" />)](https://github.com/andre-g-pedro/wages-and-employment-english/blob/main/projeto-video.mp4)
+## 🖼️ Dashboard
 
 
-<img width="1332" height="705" alt="image" src="https://github.com/user-attachments/assets/054104d9-90fb-40b0-aa3f-c3d785a875b6" />
-
-https://github.com/andre-g-pedro/wages-and-employment-english/blob/main/projeto-video.mp4
+<img width="1332" height="700" alt="print-1" src="https://github.com/user-attachments/assets/edfad6a0-6370-4c9e-a01f-645b39bf539e" />
+<img width="1333" height="702" alt="print-2" src="https://github.com/user-attachments/assets/81ca7c7d-7c64-4078-9839-b3ec0904e561" />
 
 ---
 ## 📌 Detailed Features
