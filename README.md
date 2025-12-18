@@ -70,7 +70,7 @@ This project helped enhance:
 
 
 If you are an **employer**, **recruiter**, or simply interested in **viewing the full Excel version of this project**, feel free to reach out.  
-You may send me a direct message or contact me via **LinkedIn** https://www.linkedin.com/in/andre-pedro — I’ll be happy to share the file and walk you through the technical and design decisions behind the dashboard.
+You may send me a direct message or contact me via **[LinkedIn]([https://www.linkedin.com/in/andre-pedro])** — I’ll be happy to share the file and walk you through the technical and design decisions behind the dashboard.
 
 ---
 
